@@ -6,4 +6,5 @@ got temperature data in python and put the data in CSV file every 1 four so I ma
 1 hour data as start measuring time issue.)
 
 I analysised this data for temperature and humid in jupyter notebook.
+
 the graph are in the code.
